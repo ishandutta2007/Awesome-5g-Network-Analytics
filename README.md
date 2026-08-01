@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome 5G Network Analytics Banner" width="100%" />
+</p>
+
 # Awesome-5g-Network-Analytics
 
 ## Similar Projects to 5G Network Analytics Platforms
