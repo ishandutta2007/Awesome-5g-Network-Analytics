@@ -8,18 +8,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-| Platform | Description | Pricing | Free Tier / Limit |
-| :--- | :--- | :--- | :--- |
-| **[Nokia AVA](https://www.nokia.com/)** | AI-powered analytics and automation suite for multi-domain network assurance, optimization, and predictive insights. | Custom (Contact Sales) | None |
-| **[Ericsson Expert Analytics](https://www.ericsson.com/)** | Advanced analytics platform focused on network performance, subscriber experience, and operational intelligence. | Custom (Contact Sales) | None |
-| **[Viavi](https://www.viavisolutions.com/)** | Network testing, assurance, and analytics solutions covering RAN, core, and service quality for 5G. | Custom (Contact Sales) | None |
-| **[EXFO](https://www.exfo.com/)** | Test, monitoring, and analytics portfolio for fiber, 5G, and service assurance. | Custom (Contact Sales) | None |
-| **[Accedian](https://www.accedian.com/)** | Performance analytics and assurance focused on quality of experience and network visibility. | Custom (Contact Sales) | None |
-| **[Mobileum](https://www.mobileum.com/)** | Analytics and security platform for roaming, fraud, and network intelligence. | Custom (Contact Sales) | None |
-| **[Subex](https://www.subex.com/)** | Revenue assurance, fraud management, and network analytics solutions for telecom operators. | Custom (Contact Sales) | None |
-| **[Cellwize](https://www.cellwize.com/)** (now part of larger portfolios) | RAN automation and analytics platform. | Custom (Contact Sales) | None |
-| **[Infovista](https://www.infovista.com/)** | Network performance management, planning, and analytics for mobile operators. | Custom (Contact Sales) | None |
-| **[Matellio Telecom Analytics](https://www.matellio.com/)** | Custom and productized analytics solutions for 5G networks. | Custom (Contact Sales) | None |
+| Platform | Description | Pricing | Free Tier / Limit | Company Size (Est. Revenue/Valuation) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Ericsson Expert Analytics](https://www.ericsson.com/)** | Advanced analytics platform focused on network performance, subscriber experience, and operational intelligence. | Custom (Contact Sales) | None | ~$25 Billion (Annual Revenue) |
+| **[Nokia AVA](https://www.nokia.com/)** | AI-powered analytics and automation suite for multi-domain network assurance, optimization, and predictive insights. | Custom (Contact Sales) | None | ~$24 Billion (Annual Revenue) |
+| **[Viavi](https://www.viavisolutions.com/)** | Network testing, assurance, and analytics solutions covering RAN, core, and service quality for 5G. | Custom (Contact Sales) | None | ~$1.1 Billion (Annual Revenue) |
+| **[Accedian](https://www.accedian.com/)** | Performance analytics and assurance focused on quality of experience and network visibility. | Custom (Contact Sales) | None | ~$370 Million (Valuation on acquisition by Cisco) |
+| **[Cellwize](https://www.cellwize.com/)** (now part of larger portfolios) | RAN automation and analytics platform. | Custom (Contact Sales) | None | ~$350 Million (Valuation on acquisition by Qualcomm) |
+| **[EXFO](https://www.exfo.com/)** | Test, monitoring, and analytics portfolio for fiber, 5G, and service assurance. | Custom (Contact Sales) | None | ~$300 Million (Annual Revenue) |
+| **[Mobileum](https://www.mobileum.com/)** | Analytics and security platform for roaming, fraud, and network intelligence. | Custom (Contact Sales) | None | ~$300 Million (Annual Revenue) |
+| **[Infovista](https://www.infovista.com/)** | Network performance management, planning, and analytics for mobile operators. | Custom (Contact Sales) | None | ~$200 Million (Annual Revenue) |
+| **[Subex](https://www.subex.com/)** | Revenue assurance, fraud management, and network analytics solutions for telecom operators. | Custom (Contact Sales) | None | ~$34 Million (Annual Revenue) |
+| **[Matellio Telecom Analytics](https://www.matellio.com/)** | Custom and productized analytics solutions for 5G networks. | Custom (Contact Sales) | None | ~$15 Million (Annual Revenue) |
 
 
 ## 🔓 Open-Source Software
