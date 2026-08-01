@@ -2,13 +2,23 @@
   <img src="assets/banner.svg" alt="Awesome 5G Network Analytics Banner" width="100%" />
 </p>
 
-# Awesome-5g-Network-Analytics 📶📊
+# Awesome 5G Network Analytics 📶📊
 
-## Similar Projects to 5G Network Analytics Platforms 🔍🕵️‍♂️
+> A curated list of awesome **5G Network Analytics** platforms, standardized **NWDAF** (Network Data Analytics Function) implementations, **O-RAN (Open RAN)** monitoring tools, and telecom observability stacks.
 
-**5G Network Analytics** platforms collect, process, and analyze performance data from Radio Access Networks (RAN), core networks, and user equipment. They support KPI monitoring, anomaly detection, root-cause analysis, capacity planning, experience management, and AI/ML-driven insights for 5G (and 4G) networks. Leading commercial tools include Nokia AVA, Ericsson Expert Analytics, Viavi, EXFO, Accedian, Mobileum, Subex, Cellwize, Infovista, and Matellio Telecom Analytics.
+## 📖 Introduction to 5G Network Analytics Platforms 🔍🕵️‍♂️
 
-Below is a **curated list** of notable platforms and their open-source equivalents. Fully featured commercial-grade 5G analytics suites with multi-vendor correlation and large-scale AI are rare in pure open source. The emphasis is on **open-source building blocks**, 5G core/RAN stacks with analytics capabilities, O-RAN monitoring tools, and general observability platforms that can be adapted for telecom use cases.
+**5G Network Analytics** software collects, processes, and analyzes performance telemetry data from **Radio Access Networks (RAN)**, **5G Core (5GC)**, and **User Equipment (UE)**. These systems provide critical services including:
+* **KPI Monitoring** (Key Performance Indicators)
+* **Anomaly Detection** & **Root-Cause Analysis (RCA)**
+* **Capacity Planning** & **Network Optimization**
+* **Quality of Experience (QoE)** and Subscriber Experience Management
+* **AI/ML-Driven Predictive Insights** for 4G/5G/6G networks
+
+Below is a curated list of notable platforms and open-source equivalents. Commercial-grade telecom suites with multi-vendor correlation and large-scale AI are presented alongside open-source building blocks, NWDAF tools, RIC monitoring agents, and general observability frameworks adapted for telecommunication networks.
+
+---
+
 
 ## 🏢 SaaS / Hosted Platforms
 
